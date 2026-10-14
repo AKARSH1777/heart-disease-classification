@@ -17,7 +17,7 @@ An end-to-end machine learning project exploring heart disease classification us
 - Jupyter Notebook
 
 ## Project Structure
-- `end-to-end-heart-disease-classification-video.ipynb` — exploratory analysis, model training and evaluation.
+- `end-to-end-heart-disease-classification.ipynb` — exploratory analysis, model training and evaluation.
 
 ## Limitations
 This project is for educational purposes only. Its predictions are not medical advice and should not be used to diagnose disease.
